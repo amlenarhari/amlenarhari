@@ -52,7 +52,7 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/amlenarhari
-- - LinkedIn: https://linkedin.com/in/narhari-amle-313315374?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://linkedin.com/in/narhari-amle-313315374?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
