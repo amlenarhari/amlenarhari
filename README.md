@@ -56,10 +56,5 @@
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
----
 
 ⭐ Thanks for visiting my profile!
