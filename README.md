@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Narhari Amle
 
-<!--
-**amlenarhari/amlenarhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Engineering Student | Learning DSA & Web Development | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Engineering Student
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **Web Development**
+- 💡 Interested in Software Development, Open Source, and Problem Solving
+- 🎯 Goal: Become a Software Engineer and contribute to impactful projects
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+⭐ Thanks for visiting my profile!
